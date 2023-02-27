@@ -1,0 +1,7 @@
+export const LOGIN = "LOGIN";
+export const GET_PICS = "GET_PICS";
+export const SEARCH_IMAGES = "SEARCH_IMAGES";
+export const GET_RELATED_WORDS = "GET_RELATED_WORDS";
+export const EMPTY_RELATED_WORDS = "EMPTY_RELATED_WORDS"
+export const LOADING_TRUE = "LOADING_TRUE"
+export const LOADING_FALSE = "LOADING_FALSE"
